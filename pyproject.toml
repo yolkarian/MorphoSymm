@@ -34,7 +34,7 @@ dependencies = [
     "escnn@git+https://github.com/Danfoa/escnn.git#egg=devel",
     "lie_learn@git+https://github.com/AMLab-Amsterdam/lie_learn.git",
     "networkx",
-    "pin",
+    "pin==2.7.0",
     "pybullet",
 ]
 [project.scripts]
